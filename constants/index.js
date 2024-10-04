@@ -1,0 +1,3 @@
+export const supabaseUrl="https://sxkubhogmqwllppzgrqz.supabase.co"
+export const supabaseAnonKey="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN4a3ViaG9nbXF3bGxwcHpncnF6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjc2Mzg1NDYsImV4cCI6MjA0MzIxNDU0Nn0.jHN2brIECd_0PDBb0pgN6P6h24XfXwvIeRiIOljt4eI"
+        
